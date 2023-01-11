@@ -1,0 +1,3 @@
+img/covers/**
+*.sql
+include/config.inc.php
