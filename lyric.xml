@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSearchLyricResult xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://api.chartlyrics.com/">
+  <SearchLyricResult>
+    <TrackId>0</TrackId>
+    <LyricChecksum>a4a56a99ee00cd8e67872a7764d6f9c6</LyricChecksum>
+    <LyricId>1710</LyricId>
+    <SongUrl>http://www.chartlyrics.com/28h-8gWvNk-Rbj1X-R7PXg/Bad.aspx</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/28h-8gWvNk-Rbj1X-R7PXg.aspx</ArtistUrl>
+    <Artist>Michael Jackson</Artist>
+    <Song>Bad</Song>
+    <SongRank>9</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>43770e87de26cc62a489b853997f5c5b</TrackChecksum>
+    <TrackId>2419034</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=15664&amp;t=2419034</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/8jEJMb7xY0KWEBrsLVt8hQ.aspx</ArtistUrl>
+    <Artist>Michael Mittermeier</Artist>
+    <Song>Bad Accent for President</Song>
+    <SongRank>6</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>1d59fcb37d132f19c98d5239f6d6d9fa</TrackChecksum>
+    <TrackId>2367197</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=105321&amp;t=2367197</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/D1AVMj7w30qU_lyoQuF_Ww.aspx</ArtistUrl>
+    <Artist>Michael Hoenig</Artist>
+    <Song>The Bad</Song>
+    <SongRank>3</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>b86b1c3eb62d6ccb93a180d554fb0a6f</TrackChecksum>
+    <TrackId>7194561</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=46194&amp;t=7194561</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/C8znUE6nsUSiLzzZNh2C3Q.aspx</ArtistUrl>
+    <Artist>Millie Jackson</Artist>
+    <Song>Making the Best of a Bad Situation</Song>
+    <SongRank>3</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>ab978a667d2fd908ccaf80ff47eba64a</TrackChecksum>
+    <TrackId>5514118</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=46194&amp;t=5514118</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/C8znUE6nsUSiLzzZNh2C3Q.aspx</ArtistUrl>
+    <Artist>Millie Jackson</Artist>
+    <Song>Bad Risk</Song>
+    <SongRank>2</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>61d782a712e40958bb67a5bfc72d2ff4</TrackChecksum>
+    <TrackId>10896985</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=4309&amp;t=10896985</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/M4GbjpIFmUauwS9NzNyT5Q.aspx</ArtistUrl>
+    <Artist>Michael Franks</Artist>
+    <Song>One Bad Habit</Song>
+    <SongRank>2</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackId>0</TrackId>
+    <LyricChecksum>01706e63cece7cb4886a5993047490db</LyricChecksum>
+    <LyricId>166374</LyricId>
+    <SongUrl>http://www.chartlyrics.com/nMA4cHwvvEydfvTLMI0UpQ/Bad+Habits.aspx</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/nMA4cHwvvEydfvTLMI0UpQ.aspx</ArtistUrl>
+    <Artist>Michael Tolcher</Artist>
+    <Song>Bad Habits</Song>
+    <SongRank>2</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>4c4273fca3a981a021fcee1e40b8866e</TrackChecksum>
+    <TrackId>9607356</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=519&amp;t=9607356</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/28h-8gWvNk-Rbj1X-R7PXg.aspx</ArtistUrl>
+    <Artist>Michael Jackson</Artist>
+    <Song>Love's Gone Bad</Song>
+    <SongRank>2</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackId>0</TrackId>
+    <LyricChecksum>b03b2f9c7455ffd049edc5bd2020bb2f</LyricChecksum>
+    <LyricId>178458</LyricId>
+    <SongUrl>http://www.chartlyrics.com/28h-8gWvNk-Rbj1X-R7PXg/2+Bad+(Refugee+Camp+mix).aspx</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/28h-8gWvNk-Rbj1X-R7PXg.aspx</ArtistUrl>
+    <Artist>Michael Jackson</Artist>
+    <Song>2 Bad (Refugee Camp mix)</Song>
+    <SongRank>2</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>1a9c56c0ca7e596164320cf809df0cf2</TrackChecksum>
+    <TrackId>9379391</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=519&amp;t=9379391</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/28h-8gWvNk-Rbj1X-R7PXg.aspx</ArtistUrl>
+    <Artist>Michael Jackson</Artist>
+    <Song>Bad (dance extended mix includes 'False Fade')</Song>
+    <SongRank>2</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>be3a7b81cbfac200a6115dfdc98de40f</TrackChecksum>
+    <TrackId>1081193</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=37468&amp;t=1081193</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/e-XLytACIU2-hsijpepuHg.aspx</ArtistUrl>
+    <Artist>Michael McDonald</Artist>
+    <Song>Bad Times</Song>
+    <SongRank>2</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>aaafe0f729ad9b08fc96ba906de1df7b</TrackChecksum>
+    <TrackId>10501012</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=685719&amp;t=10501012</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/zal-E4yjnUCbivaRsviAKQ.aspx</ArtistUrl>
+    <Artist>Michael David Nielsen</Artist>
+    <Song>Bad Blood (drums)</Song>
+    <SongRank>2</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>7edc0a79fc060c106548ba3b961b07e1</TrackChecksum>
+    <TrackId>2644797</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=63498&amp;t=2644797</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/xX0l5d0eyk-35hFY4AUiyA.aspx</ArtistUrl>
+    <Artist>Jackson 5</Artist>
+    <Song>Love's Gone Bad</Song>
+    <SongRank>1</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>b5641428bf7d3b97323aa7721d0bc690</TrackChecksum>
+    <TrackId>7626659</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=9655&amp;t=7626659</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/adT2B_M42kac-i9TJCK4Tg.aspx</ArtistUrl>
+    <Artist>Joe Jackson</Artist>
+    <Song>Good Bad Boy</Song>
+    <SongRank>1</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>902336a2158c54f3ebd86be1f700c7e9</TrackChecksum>
+    <TrackId>7699282</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=16069&amp;t=7699282</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/Aj7DzxeahUKcuLgUqUMFUQ.aspx</ArtistUrl>
+    <Artist>Michael Penn</Artist>
+    <Song>A Bad Sign</Song>
+    <SongRank>1</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>4e073cb5731bb8d2d8d6ef6323c1e261</TrackChecksum>
+    <TrackId>8736616</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=47596&amp;t=8736616</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/3uE4LpAoIEaEZ1sLtGQcuQ.aspx</ArtistUrl>
+    <Artist>Milt Jackson</Artist>
+    <Song>I Got It Bad (and That Ain't Good)</Song>
+    <SongRank>1</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>8bc1cb1cb8afeb22891405c27b72d838</TrackChecksum>
+    <TrackId>1660173</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=36443&amp;t=1660173</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/J2kTxS9DiEW9NYJItsmr4Q.aspx</ArtistUrl>
+    <Artist>Michael Knott</Artist>
+    <Song>Bad Check</Song>
+    <SongRank>1</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>5dedac465d1287fde6c0db3904e71664</TrackChecksum>
+    <TrackId>7367652</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=395997&amp;t=7367652</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/CIb50Zg_X0Cs-ScoaLrE4g.aspx</ArtistUrl>
+    <Artist>Michael Lange</Artist>
+    <Song>Bidding Song</Song>
+    <SongRank>1</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>4b2cce3f548dc08ba0f9309abd9a69cf</TrackChecksum>
+    <TrackId>4393120</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=5588&amp;t=4393120</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/_V0MCYqd3EKlVY1WbYaAyQ.aspx</ArtistUrl>
+    <Artist>Michael Burks</Artist>
+    <Song>Good Man, Bad Thing</Song>
+    <SongRank>1</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>8ee17868fa3744f57e93a3b86ac42db8</TrackChecksum>
+    <TrackId>5947077</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=89812&amp;t=5947077</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/7AFWjFESc0yXeKiwTiitQA.aspx</ArtistUrl>
+    <Artist>Michael Katon</Artist>
+    <Song>Need It Awful Bad (Tribute to JM and RT)</Song>
+    <SongRank>1</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>809ae52a50889f80fe51caf819607612</TrackChecksum>
+    <TrackId>11251832</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=196567&amp;t=11251832</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/S3IKephsekqZkS-vZZ0_iw.aspx</ArtistUrl>
+    <Artist>LaToya Jackson</Artist>
+    <Song>Bad Girl</Song>
+    <SongRank>1</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>5bf9e2e5d13df8d35aaa2a5a0ab3ff25</TrackChecksum>
+    <TrackId>2351912</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=79623&amp;t=2351912</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/9FTo90XY40OLOW2mMuJz4g.aspx</ArtistUrl>
+    <Artist>Michael Monroe</Artist>
+    <Song>Not Bad for a White Boy</Song>
+    <SongRank>1</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>ea06d0355719e2ef89ef63c71e8309a7</TrackChecksum>
+    <TrackId>4115649</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=10095&amp;t=4115649</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/0eW-6KWjGkytpPHKIhAehA.aspx</ArtistUrl>
+    <Artist>Michael Bolton</Artist>
+    <Song>You Don't Want Me Bad Enough</Song>
+    <SongRank>1</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackChecksum>6c13fb2e2dc05e186a5f2a987ab866f4</TrackChecksum>
+    <TrackId>1563280</TrackId>
+    <LyricId>0</LyricId>
+    <SongUrl>http://www.chartlyrics.com/app/add.aspx?a=121266&amp;t=1563280</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/mvTCN3bHZEiPDnLxQtCmxg.aspx</ArtistUrl>
+    <Artist>Cookie Jackson</Artist>
+    <Song>Your Good Girl's Gonna Go Bad</Song>
+    <SongRank>1</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult>
+    <TrackId>0</TrackId>
+    <LyricChecksum>5780a1652a302acb25d4da86fd991060</LyricChecksum>
+    <LyricId>76722</LyricId>
+    <SongUrl>http://www.chartlyrics.com/28h-8gWvNk-Rbj1X-R7PXg/2+Bad.aspx</SongUrl>
+    <ArtistUrl>http://www.chartlyrics.com/28h-8gWvNk-Rbj1X-R7PXg.aspx</ArtistUrl>
+    <Artist>Michael Jackson</Artist>
+    <Song>2 Bad</Song>
+    <SongRank>1</SongRank>
+  </SearchLyricResult>
+  <SearchLyricResult xsi:nil="true" />
+</ArrayOfSearchLyricResult>
