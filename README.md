@@ -59,9 +59,9 @@ from the data returned by Discogs API
 ## Installation / Configurations
 Requires MYSQL database. Set your Shoutcast configuration details and MYSQL credentials.
 
-`stream_mysql.sql` 
+`include/stream_mysql.sql` 
  
- Import the `stream_mysql.sql` file into your database.
+ Import the `stream_mysql.sql` file into your database. Then, delete it from the include/ directory or move it out of your document root.
 
 Set your Discogs Developer Api Key/Secret variables in `js/tessa2.js`
 
@@ -78,7 +78,7 @@ var auth = {
 
 `include/config.inc.php` 
 
- Make your configuration changes in this file or shit wont do diddly squat.  
+ Make your configuration changes in this file ( or create it if it does not exist) or shit wont do diddly squat.  
 
 ```
 define('SHOUTCAST_HOST', 'http://myradiowebsite.com:8000'); // url:port to your shoutcast server
@@ -87,7 +87,6 @@ define('SCROBBLER_API', 'scrobbler_api_key'); // API key from lastfm to query da
 define('APPLICATION_NAME', 'My Radio station'); // Name of your website's application
 define('NOW_PLAYING_TXT', 'Now Playing'); // Content to display as Now Playing
 define('SITE_URL', 'http://mywebsite.com'); // used in FB share link (deprecated)
-
 define('MYSQL_USER', 'myusern'); // your mysql username
 define('MYSQL_USER_PASSWORD', 'mysql_password'); // your mysql user password
 define('MYSQL_DATABASE', 'mydatabaseName'); // your mysql database
